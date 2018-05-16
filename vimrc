@@ -2,6 +2,7 @@ call plug#begin('~/.vim/plugged')
 
 " colorscheme
 Plug 'morhetz/gruvbox'
+Plug 'chriskempson/base16-vim'
 " git integration
 Plug 'tpope/vim-fugitive'
 " close tags automatically
@@ -29,3 +30,4 @@ Plug 'w0ng/vim-hybrid'
 
 call plug#end()
 
+source ~/.vim/vim_config

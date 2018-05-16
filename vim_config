@@ -1,0 +1,28 @@
+
+"allow mouse usage
+set mouse=a
+set term=xterm-256color
+set hidden
+"set t_Co=256
+
+"let base16colorspace=256
+
+set number
+set showmatch
+
+set incsearch
+set ignorecase
+set smartcase
+
+set autoindent
+
+set background=dark
+colorscheme gruvbox
+
+syntax on
+
+let mapleader=","
+" allows for indentaion of blocks without losing selection
+" nnoremap ; :
+vnoremap < <gv
+vnoremap > >gv
