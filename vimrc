@@ -23,7 +23,7 @@ Plug 'bling/vim-airline'
 " better movement around buffers
 Plug 'Lokaltog/vim-easymotion'
 
-Plug 'ervandew/supertab'
+" Plug 'ervandew/supertab'
 " Plug 'mattn/emmet-vim'
 Plug 'Valloric/MatchTagAlways'
 Plug 'w0ng/vim-hybrid'

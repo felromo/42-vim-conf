@@ -27,5 +27,7 @@ let mapleader=","
 vnoremap < <gv
 vnoremap > >gv
 
+set tabstop=4
 set shiftround
-set expandtab
+"converts tabs to spaces - cant use this option at 42
+"set expandtab
