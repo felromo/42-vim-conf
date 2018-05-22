@@ -28,6 +28,8 @@ Plug 'Lokaltog/vim-easymotion'
 Plug 'Valloric/MatchTagAlways'
 Plug 'w0ng/vim-hybrid'
 
+Plug 'tpope/vim-surround'
+
 call plug#end()
 
 source ~/.vim/vim_config
